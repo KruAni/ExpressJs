@@ -1,0 +1,16 @@
+{
+    "user1":
+    {
+        "name":"MOTU",
+        "password":"MOTUXYZ",
+        "description":"COMEDIAN",
+        "id":1
+    },
+    "user3":
+    {
+        "name":"RAJU",
+        "password":"RAJUXYZ",
+        "description":"CHILD",
+        "id":3
+    }
+}
